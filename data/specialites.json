@@ -1,0 +1,193 @@
+{
+  "specialites": [
+    {
+      "value": "genie-civil",
+      "code": "GENIE-CIVIL",
+      "label": {
+        "fr": "Génie Civil / Travaux Publics",
+        "en": "Civil Engineering / Public Works",
+        "ar": "الهندسة المدنية / الأشغال العمومية"
+      }
+    },
+    {
+      "value": "architecture",
+      "code": "ARCHITECTURE",
+      "label": {
+        "fr": "Architecture",
+        "en": "Architecture",
+        "ar": "الهندسة المعمارية"
+      }
+    },
+    {
+      "value": "mecanique",
+      "code": "MECANIQUE",
+      "label": {
+        "fr": "Mécanique",
+        "en": "Mechanics",
+        "ar": "الميكانيك"
+      }
+    },
+    {
+      "value": "electricite",
+      "code": "ELECTRICITE",
+      "label": {
+        "fr": "Électricité",
+        "en": "Electricity",
+        "ar": "الكهرباء"
+      }
+    },
+    {
+      "value": "hydraulique",
+      "code": "HYDRAULIQUE",
+      "label": {
+        "fr": "Hydraulique / Traitement des eaux",
+        "en": "Hydraulics / Water Treatment",
+        "ar": "الهيدروليك / معالجة المياه"
+      }
+    },
+    {
+      "value": "qhse",
+      "code": "QHSE",
+      "label": {
+        "fr": "QHSE",
+        "en": "QHSE",
+        "ar": "الجودة والصحة والسلامة والبيئة"
+      }
+    },
+    {
+      "value": "topographie",
+      "code": "TOPOGRAPHIE",
+      "label": {
+        "fr": "Topographie",
+        "en": "Topography",
+        "ar": "المساحة"
+      }
+    },
+    {
+      "value": "informatique",
+      "code": "INFORMATIQUE",
+      "label": {
+        "fr": "Informatique",
+        "en": "IT / Computer Science",
+        "ar": "الإعلام الآلي"
+      }
+    },
+    {
+      "value": "admin-rh",
+      "code": "ADMIN-RH",
+      "label": {
+        "fr": "Administration / RH",
+        "en": "Administration / HR",
+        "ar": "الإدارة / الموارد البشرية"
+      }
+    },
+    {
+      "value": "finance",
+      "code": "FINANCE",
+      "label": {
+        "fr": "Finance / Comptabilité",
+        "en": "Finance / Accounting",
+        "ar": "المالية / المحاسبة"
+      }
+    },
+    {
+      "value": "juridique",
+      "code": "JURIDIQUE",
+      "label": {
+        "fr": "Juridique",
+        "en": "Legal",
+        "ar": "الشؤون القانونية"
+      }
+    },
+    {
+      "value": "instrumentation",
+      "code": "INSTRUMENTATION",
+      "label": {
+        "fr": "Instrumentation",
+        "en": "Instrumentation",
+        "ar": "الأجهزة والقياس"
+      }
+    },
+    {
+      "value": "ingenierie",
+      "code": "INGENIERIE",
+      "label": {
+        "fr": "Ingénierie",
+        "en": "Engineering",
+        "ar": "الهندسة"
+      }
+    },
+    {
+      "value": "controleur-doc",
+      "code": "CONTROLEUR-DOC",
+      "label": {
+        "fr": "Contrôleur Documentaire",
+        "en": "Document Controller",
+        "ar": "مراقب الوثائق"
+      }
+    },
+    {
+      "value": "procurement",
+      "code": "PROCUREMENT",
+      "label": {
+        "fr": "Procurement",
+        "en": "Procurement",
+        "ar": "المشتريات"
+      }
+    },
+    {
+      "value": "planificateur",
+      "code": "PLANIFICATEUR",
+      "label": {
+        "fr": "Planificateur",
+        "en": "Planner",
+        "ar": "مخطط"
+      }
+    },
+    {
+      "value": "voie-ferree",
+      "code": "VOIE-FERREE",
+      "label": {
+        "fr": "Ingénieur Voie Ferrée",
+        "en": "Railway Engineer",
+        "ar": "مهندس السكك الحديدية"
+      }
+    },
+    {
+      "value": "service-puits",
+      "code": "SERVICE-PUITS",
+      "label": {
+        "fr": "Ingénieur Service aux Puits",
+        "en": "Well Services Engineer",
+        "ar": "مهندس خدمات الآبار"
+      }
+    },
+    {
+      "value": "soudeurs",
+      "code": "SOUDEURS",
+      "label": {
+        "fr": "Soudeurs Homologués",
+        "en": "Certified Welders",
+        "ar": "لحامون معتمدون"
+      }
+    },
+    {
+      "value": "medecin-sante",
+      "code": "MEDECIN-SANTE",
+      "label": {
+        "fr": "Médecin / Santé",
+        "en": "Doctor / Health",
+        "ar": "طبيب / صحة"
+      }
+    },
+    {
+      "value": "autre",
+      "code": "AUTRE",
+      "label": {
+        "fr": "Autre",
+        "en": "Other",
+        "ar": "أخرى"
+      }
+    }
+  ]
+}

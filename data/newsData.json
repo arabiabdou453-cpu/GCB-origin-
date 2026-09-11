@@ -1,0 +1,311 @@
+{
+  "news": [
+    {
+  "id": "Inauguration_nouveau_siège_Sous-Direction_BTPH_Boudouaou",
+  "date": "2026-07-13",
+  "mainImage": "/news/news15.jpg",
+  "title": {
+    "fr": "Inauguration du nouveau siège de la Sous-Direction BTPH à Boudouaou",
+    "en": "Inauguration of the New BTPH Sub-Directorate Headquarters in Boudouaou",
+    "ar": "تدشين المقر الجديد للمديرية الفرعية التابعة لمديرية الهندسة والاقتناء ببودواو"
+  },
+  "excerpt": {
+    "fr": "Le 13 juillet 2026, la Société Nationale de Génie Civil et Bâtiment (GCB) a inauguré le nouveau siège de la Sous-Direction BTPH à Boudouaou, dans la wilaya de Boumerdès. Réalisée dans un délai record et conformément aux normes internationales, cette nouvelle infrastructure offre un environnement de travail moderne, fonctionnel et propice à la collaboration.",
+    "en": "On July 13, 2026, the National Civil Engineering and Building Company (GCB) inaugurated the new BTPH Sub-Directorate headquarters in Boudouaou, Boumerdès. Completed in record time and in accordance with international standards, the new facility provides a modern, functional, and collaborative working environment.",
+    "ar": "في 13 يوليو 2026، دشنت الشركة الوطنية للهندسة المدنية والبناء المقر الجديد للمديرية الفرعية للأشغال العمومية والبناء ببودواو، في ولاية بومرداس. وقد أنجز هذا المرفق في مدة قياسية وفقا للمعايير الدولية، ليوفر بيئة عمل حديثة وعملية تعزز التعاون وراحة العمال."
+  },
+  "category": {
+    "fr": "Événements",
+    "en": "Events",
+    "ar": "الأحداث"
+  }
+},
+     {
+      "id": "Journée_étude_transformation_numérique_cybersécurité",
+      "date": "2026-06-14",
+      "mainImage": "/news/news14.JPG",
+      "title": {
+        "fr": "Journée d’étude sur la transformation numérique et la cybersécurité au sein de la Société Nationale de Génie Civil et Bâtiment (GCB)",
+        "en": "Study Day on Digital Transformation and Cybersecurity at the National Civil Engineering and Construction Company (GCB)",
+        "ar": "يوم دراسي حول التحول الرقمي في الشركة"
+      },
+      "excerpt": {
+        "fr": "Dans le cadre de sa vision stratégique visant à moderniser ses structures et à renforcer ses performances, la Société Nationale de Génie Civil et Bâtiment (GCB) a organisé une journée d’étude consacrée à la transformation digitale et à la cybersécurité.",
+        "en": "As part of its forward-looking vision aimed at modernizing its structures and enhancing its performance, the National Civil Engineering and Bulding Company (GCB) organized a study day dedicated to digital transformation and cybersecurity.",
+        "ar": "في إطار رؤيتها الاستشرافية وعصرنة هياكلها، نظّمت الشركة الوطنية للهندسة المدنية والبناء (GCB)، اليوم 14/06/2026، يوماً دراسياً مخصصاً للتحول الرقمي والأمن السيبراني."
+      },
+        "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+    {
+      "id": "GCB_premiere_certification_SMI",
+      "date": "2026-05-14",
+      "mainImage": "/news/news13.JPG",
+      "title": {
+        "fr": "GCB décroche sa première certification SMI avec succès",
+        "en": "GCB Successfully Achieves Its First IMS Certification",
+        "ar": "الشركة الوطنية للهندسة المدنية والبناء تتحصل على أول شهادة لنظام الإدارة المتكامل"
+      },
+      "excerpt": {
+        "fr": "Le Jeudi 14 mai 2026, s'est tenue la réunion de clôture de l'audit initial tierce partie pour l'évaluation de notre Système de Management Intégré (SMI). Avec zéro non-conformité majeure, AFAQ AFNOR a confirmé avec succès la certification du SMI de GCB.",
+        "en": "On Thursday, May 14, 2026, the closing meeting of the initial third-party audit for the assessment of our Integrated Management System (IMS) was held. With zero major non-conformities, AFAQ AFNOR successfully confirmed the certification of GCB's IMS.",
+        "ar": "يوم الخميس 14 ماي 2026، عُقد اجتماع اختتام التدقيق الأولي الخارجي الخاص بتقييم نظام الإدارة المتكامل. وبدون تسجيل أي حالة عدم مطابقة جسيمة، أكدت هيئة AFAQ AFNOR على حصول GCB على شهادة نظام الإدارة المتكامل."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+      {
+      "id": "visite_une_délégation_nigérienne_au_siège_de_GCB_Boumerdès",
+      "date": "2026-05-14",
+      "mainImage": "/news/news12.jpg",
+      "title": {
+       "fr": "La visite d’une délégation nigérienne au siège de GCB à Boumerdès",
+       "en": "Visit of a Nigerien Delegation to GCB Headquarters in Boumerdès",
+       "ar": "زيارة وفد من النيجر إلى المقر الرئيسي لشركة GCB في بومرداس"
+      },
+      "excerpt": {
+        "fr": "Cette visite s’inscrit dans le cadre de la mise en œuvre du mémorandum d’entente stratégique algéro-nigérien signé le 24 mars 2026.",
+        "en": "This visit is part of the implementation of the Algerian-Nigerien strategic memorandum of understanding signed on March 24, 2026.",
+        "ar": "تأتي هذه الزيارة في إطار تنفيذ مذكرة التفاهم الاستراتيجية الجزائرية–النيجرية التي تم توقيعها في 24 مارس 2026."},
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+     {
+      "id": "projet_de_ferme_intégrée_de_production_laitière",
+      "date": "2026-04-23",
+      "mainImage": "/news/news11.jpeg",
+      "title": {
+       "fr": "Projet de ferme intégrée de production laitière.",
+       "en": "Integrated Dairy Farm Project.",
+       "ar": "مشروع المزرعة المتكاملة لإنتاج الحليب "
+      },
+      "excerpt": {
+        "fr": "Le jeudi 23 avril 2026, sous le haut patronage de Monsieur le Ministre de l’Agriculture, du Développement rural et de la Pêche, Monsieur Yacine El Mehdi Oualid, s’est tenue la cérémonie de signature de la deuxième vague de contrats du projet de production laitière intégrée (Baladna Algérie), au Centre International de Conférences « Abdelatif Rahal », au Club des Pins, à Alger.",
+        "en": "As part of the implementation of the State’s strategic vision aimed at strengthening food security and developing national grain storage capacities, the grain storage silos construction project in Si Mustapha (Boumerdes) and Oumache (Biskra) is witnessing significant progress in the pace of work.",
+        "ar": "تمت يوم الخميس 23 أفريل 2026 وتحت الرعاية السامية للسيد الوزير ياسين المهدي وليد، وزير الفلاحة والتنمية الريفية والصيد البحري، مراسم توقيع الحزمة الثانية من عقود مشروع إنتاج الحليب المتكامل (بلدنا الجزائر) بالمركز الدولي للمؤتمرات  بنادي الصنوبر، الجزائر العاصمة."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+    {
+      "id": "Projet_réalisation_silos_de_stockage_des_céréales_Boumerdès_Biskra",
+      "date": "2026-04-14",
+      "mainImage": "/news/news10.jpg",
+      "title": {
+       "fr": "Projet de réalisation des silos de stockage des céréales.",
+       "en": "Grain Storage Silos Construction Project.",
+       "ar": " مشروع إنجاز صوامع لتخزين الحبوب."
+      },
+      "excerpt": {
+        "fr": "Dans le cadre de la concrétisation de la vision stratégique de l’État visant à renforcer la sécurité alimentaire et à développer les capacités nationales de stockage des céréales, le projet de réalisation des silos de stockage des céréales à Si Mustapha (Boumerdès) et à Oumache (Biskra) connaît une avancée notable dans le rythme des travaux.",
+        "en": "As part of the implementation of the State’s strategic vision aimed at strengthening food security and developing national grain storage capacities, the grain storage silos construction project in Si Mustapha (Boumerdes) and Oumache (Biskra) is witnessing significant progress in the pace of work.",
+        "ar": "في إطار تجسيد الرؤية الاستراتيجية للدولة الرامية إلى تعزيز الأمن الغذائي وتطوير قدرات التخزين الوطنية للحبوب، يشهد مشروع إنجاز صوامع تخزين الحبوب بكل من سي مصطفى _ بومرداس، وبلدية أوماش_بسكرة تقدماً ملحوظاً في وتيرة الأشغال."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+   {
+      "id": "GCB_soutient_initiative_nationale_cinq_millions_arbres",
+      "date": "2026-02-14",
+      "mainImage": "/news/news9.jpg",
+      "title": {
+       "fr": "Un geste pour la planète : GCB soutient l’initiative nationale de cinq millions d’arbres.",
+       "en": "GCB Participates in the National Initiative to Plant Five Million Trees.",
+       "ar": "انخراط الشركة الوطنية للهندسة المدنية والبناء في المبادرة الوطنية من أجل غرس خمسة ملايين شجرة."
+      },
+      "excerpt": {
+        "fr": "Dans le cadre de l’initiative nationale de plantation de cinq (05) millions d’arbres à travers le territoire national, GCB – Hassi Messaoud a pris part activement à cette action d’envergure le 14 février 2026.",
+        "en": "In alignment with the national initiative to plant five million trees across the Algerian territory, the National Civil Engineering and Building (GCB), specifically the Eastern Southern Directorate (D.S.E) in Hassi Messaoud, took an active role in this large-scale environmental action on February 14, 2026.",
+        "ar": "في إطار المبادرة الوطنية المتعلقة بغرس خمسة ملايين شجرة عبر التراب الوطني، إنضمت مديرية الجنوب الشرقي للشركة الوطنية للهندسة المدنية و البناء لهته  المبادرة بشروعها في عملية غرس واسعة للأشجار بمنطقة حاسي مسعود  ابتداء من 14 فبراير 2026."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+
+
+   {
+      "id": "Participation_GCB_Journée_étude_sécurité_juridique",
+      "date": "2026-02-12",
+      "mainImage": "/news/news8.jpg",
+      "title": {
+       "fr": "Participation de GCB à la Journée d’étude sur la sécurité juridique.",
+      "en": "Participation of the National Company of Civil Engineering and Building GCB in a Study Day on Legal Security.",
+       "ar": "مشاركة الشركة الوطنية للهندسة المدنية والبناء في اليوم الدراسي حول الأمن القانوني"
+      },
+      "excerpt": {
+        "fr": "La sécurité juridique comme levier du développement économique et la protection des dirigeants des institutions économiques publiques.",
+        "en": "Legal Security as a Lever for Economic Development and Protection of Public Enterprise Managers.",
+        "ar": "الأمن القانوني كرافعة للتنمية الاقتصادية وحماية مسيري المؤسسات الاقتصادية العمومية"
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+     {
+      "id": "inauguration-ligne-ferroviaire-bechar-tindouf-gara-djebilet",
+      "date": "2026-01-31",
+      "mainImage": "/news/news7.jpg",
+      "title": {
+       "fr": "Inauguration de la ligne ferroviaire Béchar-Tindouf-Gara Djebilet sur 950 km",
+      "en": "Inauguration of the Bechar Tindouf  Gar Djebilet  rail line over 950 km.",
+      "ar": "تدشين خط السكة الحديدية بشار-تندوف-غارا جبيلات على مسافة 950 كم"
+      },
+      "excerpt": {
+        "fr": "Le 31 janvier 2026, le Président-Directeur Général de la Société Nationale de Génie Civil et Bâtiment, M. Abdelghani BEN DJEBBA, a assisté à l’inauguration de la ligne ferroviaire Béchar-Tindouf-Gara Djebilet ainsi qu’à la nouvelle gare de Tindouf, donnant le signal du premier voyage de passagers de Tindouf à Béchar.",
+        "en": "On January 31, 2026, the CEO of the National Company for Civil Engineering and Building, Mr. Abdelghani BEN DJEBBA, attended the inauguration of the Bechar-Tindouf-Gara Djebilet railway line and the new Tindouf station, marking the first passenger train journey from Tindouf to Bechar.",
+        "ar": "حضر أمس 31 جانفي 2026 الرئيس المدير العام للشركة الوطنية للهندسة المدنية والبناء السيد عبد الغاني بن جبة عملية تدشين خط السكة الحديدية بشار-تندوف-غارا جبيلات ومحطة قطار تندوف الجديدة، وإعطاء إشارة أولى رحلات نقل المسافرين بواسطة القطار من تندوف إلى بشار."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+    {
+      "id": "visite-inspection-projet-ferroviaire-bechar-tindouf",
+      "date": "2025-12-11",
+      
+      "mainImage": "/news/news6.jpg",
+      "title": {
+        "fr": "Visite de travail et d inspection du projet de ligne ferroviaire Béchar Tindouf Gara Djebilet.",
+        "en": "Work and Inspection Visit for the Bechar Tindouf Gar Djebilet Railway Project.",
+        "ar": "زيارة عمل وتفقد لمشروع السكة الحديدية بشار تندوف غار جبيلات. "
+      },
+      "excerpt": {
+        "fr": "Dans le cadre de la mise en œuvre des instructions du Président de la République, M. Abdelmadjid TEBBOUNE, relatives à la mise en service de la ligne ferroviaire Béchar-Tindouf- Ghar Djebilet, le Ministre des Travaux Publics et des Infrastructures de Base, M. Abdelkader DJELLAOUI, s'est rendu ce mercredi 10 décembre 2025 à Tindouf.",
+        "en": "In implementation of the instructions issued by the President of the Republic, Mr. Abdelmadjid TEBBOUNE, regarding the commissioning of the Bechar-Tindouf- Ghar Djebilet railway line, the Minister of Public Works and Basic Infrastructures, Mr. Abdelkader DJELLAOUI), arrived in Tindouf on Wednesday, December 10, 2025.",
+        "ar": "في إطار تنفيذ تعليمات رئيس الحمهورية السيد عبد المجيد تبون المتعلقة بوضع خط السكة الحديدية بشار تندوف غار جبيلات حيز الخدمة حل يوم الأربعاء 10 ديسمبر 2025 وزير الأشغال العمومية و المنشآت القاعدية السيد عبد القادر جلاوي بتندوف ."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+    {
+      "id": "salon-international-industrie-infrastructures-ferroviaires-oran",
+      "date": "2025-06-11",
+      
+      "mainImage": "/news/news1.jpg",
+      "title": {
+        "fr": "Participation de la Société Nationale de Génie Civil et bâtiment à la première édition du Salon International de l'Industrie et des Infrastructures Ferroviaires à Oran",
+        "en": "Participation of the National Company for Civil Engineering and building in the first edition of the International Exhibition on Industry and Railway Infrastructure in Oran.",
+        "ar": "مشاركة الشركة الوطنية للهندسة المدنية و البناء في الطبعة الأولى للصالون الدولي للصناعة و البنية التحتية للسكك الحديد بوهران"
+      },
+      "excerpt": {
+        "fr": "Sous le haut patronage du Ministre des Transports, la première édition du Salon International de l'Industrie et des Infrastructures Ferroviaires a été inaugurée ce mercredi 11 juin 2025, au Centre des Conventions Mohamed Ben Ahmed, à Oran.",
+        "en": "Under the High Patronage of the Minister of Transport, the first edition of the International Exhibition on Industry and Railway Infrastructure was inaugurated on Wednesday, June 11, 2025, at the Mohamed Ben Ahmed Convention Center in Oran.",
+        "ar": "تحت الرعاية السامية لوزير النقل تم اليوم الأربعاء 11 جوان 2025 إفتتاح الطبعة الأولى للصالون الدولي للصناعة و البنية التحتية للسكك الحديدية ، بمركز المؤتمرات محمد بن احمد ،وهران ."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+    {
+      "id": "inauguration-station-dessalement-cap-blanc-oran",
+      "date": "2025-02-20",
+     
+      "mainImage": "/news/news2.jpg",
+      "title": {
+        "fr": "Le Président de la République, M. Abdelmadjid Tebboune, inaugure la station de dessalement d'eau de mer à Cap Blanc, dans la wilaya d'Oran.",
+        "en": "The President of the Republic, Mr. Abdelmadjid Tebboune, inaugurates the seawater desalination plant in Cap Blanc, Oran province.",
+        "ar": "رئيس الجمهورية السيد عبد المجيد تبون يدشن محطة تحلية مياه البحر في الرأس الأبيض بولاية وهران"
+      },
+      "excerpt": {
+        "fr": "Le jeudi 20 février 2025, le Président de la République, M. Abdelmadjid Tebboune, a inauguré la station de dessalement d'eau de mer de Ras El-Baïda, située dans la commune de Aïn Kerma, à l'ouest de la wilaya d'Oran, en présence des autorités civiles et militaires,Il a été accueilli par le Président-Directeur Général du groupe Sonatrach, M. Rachid Hachichi, ainsi que par le Président-Directeur Général de la Société Nationale de Génie Civil et Bâtiment, M. Abdelghani BEN DJEBBA.",
+        "en": "Thursday, February 20, 2025, the President of the Republic, Mr. Abdelmadjid Tebboune, inaugurated the seawater desalination plant of Ras El-Baïda, located in the municipality of Aïn Kerma, west of Oran province, in the presence of civil and military authorities.He was received by the President and CEO of Sonatrach Group, Mr. Rachid Hachichi, and the President and CEO of the National Company for Civil Engineering and Building, Mr. Abdelghani BEN DJEBBA.",
+        "ar": "قام رئيس الجمهورية السيد عبد المجيد تبون اليوم الخميس 20 فيفري 2025 بتدشين محطة تحلية مياه البحر في الرأس الأبيض، الواقعة ببلدية عين الكرمة غربي ولاية وهران و ذلك بحظور السلطات العسكرية و المدنية و كان في استقباله الرئيس المدير العام لمجمع سوناطراك السيد رشيد حشيشي و الرئيس المدير العام  للشركة الوطنية للهندسة المدنية و البناء السيد عبد الغاني بن جبة."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+    {
+      "id": "visite-ministerielle-ligne-miniere-tindouf-oum-el-assel",
+      "date": "2025-06-30",
+    
+      "mainImage": "/news/news3.jpg",
+      "title": {
+        "fr": "Visite ministérielle du projet de la ligne minière de l'Ouest reliant Tindouf à Oum El Assel.",
+        "en": "Ministerial visit to the Western Mining Railway Project linking Tindouf and Oum El Assel.",
+        "ar": "زيارة وزارية لمشروع الخط المنجمي الغربي الرابط بين تندوف وأم العسل"
+      },
+      "excerpt": {
+        "fr": "Le lundi 30 juin 2025, le Ministre des Travaux Publics et des Infrastructures de Base, accompagné du Wali de la wilaya de Tindouf et de la délégation qui l'accompagnait, a effectué une visite à l'usine de production de traverses en béton de la Société Nationale de Génie Civil et Bâtiment, située à l'intersection de Hassi M'neir.",
+        "en": "Monday, June 30, 2025, the Minister of Public Works and Basic Infrastructure, accompanied by the Wali of Tindouf province and the accompanying delegation, visited the concrete sleeper production plant of the National Company for Civil Engineering and Building, located at the Hassi M'neir crossroads.",
+        "ar": "قام اليوم الإثنين 30 جوان 2025 وزير الأشغال العمومية و المنشآت القاعدية رفقة والي ولاية تندوف والوفد المرافق لهم بزيارة لمصنع إنتاج العوارض الخرسانية للشركة الوطنية للهندسة المدنية و البناء المتواجد بمفترق الطرق حاسي منير ."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+    {
+      "id": "salon-international-eau-transition-climatique-pollutec",
+      "date": "2025-05-18",
+     
+      "mainImage": "/news/news4.jpg",
+      "title": {
+        "fr": "Participation de la Société Nationale de Génie Civil et Bâtiment   à la 20ᵉ édition du Salon International de l'Eau et de la Transition Climatique.",
+        "en": "Participation of the National Company for Civil Engineering and Building in the 20th edition of the International Water and Climate Transition Exhibition.",
+        "ar": "مشاركة الشركة الوطنية للهندسة المدنية والبناء في الطبعة العشرين للصالون الدولي للماء والتحول المناخي."
+      },
+      "excerpt": {
+        "fr": "Le dimanche 18 mai 2025, la 20ᵉ édition du Salon International de l'Eau et de la Transition Climatique (POLLUTEC) a été inaugurée au Palais des Expositions, Pins Maritimes, Alger.",
+        "en": "On Sunday, May 18, 2025, the 20th edition of the International Exhibition on Water and Climate Transition (POLLUTEC) was inaugurated at the Palais des Expositions, Pins Maritimes, Algiers.",
+        "ar": "تم اليوم الأحد 18 ماي 2025 إفتتاح الطبعة العشرين للصالون الدولي للماء و التحول المناخي (POLLUTEC)، بقصر المعارض الصنوبر البحري، الجزائر العاصمة."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    },
+    {
+      "id": "pose-premiere-pierre-silo-strategique-boumerdes",
+      "date": "2025-05-18",
+     
+      "mainImage": "/news/news5.jpg",
+      "title": {
+        "fr": "Pose de la première pierre pour la réalisation d'un silo stratégique dans la wilaya de Boumerdès.",
+        "en": "Laying of the foundation stone for the construction of a strategic silo in Boumerdès province.",
+        "ar": "وضع حجر الأساس لإنجاز صومعة إستراتيجية بولاية بومرداس."
+      },
+      "excerpt": {
+        "fr": "Le Ministre de l'Agriculture, du Développement Rural et de la Pêche Maritime, M. Youcef Cherfa, aux côtés de la Wali de la wilaya de Boumerdès, Mme Fouzia Naama, ainsi que plusieurs personnalités éminentes, a donné le coup d'envoi des travaux du grand projet stratégique de construction d'un silo moderne pour le stockage des céréales et des légumineuses, d'une capacité de 100 000 tonnes, dans la région de Hadjret Essaf, sur les hauteurs de la commune de Si Mustapha, wilaya de Boumerdès.",
+        "en": "The Minister of Agriculture, Rural Development and Fisheries, Mr. Youcef Cherfa, together with the Wali of Boumerdes province, Mrs. Fouzia Naama, and several prominent figures, launched the works of the major strategic project to build a modern silo for storing grains and legumes with a capacity of 100,000 tons, in the Hadjret Essaf area, in the heights of Si Mustapha municipality, Boumerdes province.",
+        "ar": "أشرف وزير الفلاحة و التنمية الريفية والصيد البحري السيد يوسف شرفة إلى جانب والي ولاية بومرداس السيدة فوزية نعامة وعدد من الشخصيات البارزة على إعطاء إشارة إنطلاق الأشغال على مستوى المشروع الإستراتجي الكبير لإنجاز صومعة حديثة لتخزين الحبوب و البقوليات بقدرة 100 ألف طن على مستوى منطقة حجرة الساف في أعالي بلدية سي مصطفى ولاية بومرداس."
+      },
+      "category": {
+        "fr": "Événements",
+        "en": "Events",
+        "ar": "الأحداث"
+      }
+    }
+  ]
+}

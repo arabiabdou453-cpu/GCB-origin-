@@ -1,0 +1,29 @@
+{
+  "name": "GCB - Société Nationale de Génie Civil et Bâtiment",
+  "short_name": "GCB",
+  "description": "LA SOCIÉTÉ NATIONALE DE GÉNIE-CIVIL & BÂTIMENT, GCB Spa, Filiale du Groupe SONATRACH, plus de 40 ans d'experience dans le domaine PÉTROLIER,BTPH & Ouvrages Hydrauliques",
+  "version": "1.0.0", 
+  "version_name": "2025.12.21",  
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#FF6B35",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "fr",
+  "dir": "ltr",
+  "categories": ["construction", "engineering"]
+}

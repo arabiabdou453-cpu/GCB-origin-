@@ -1,0 +1,53 @@
+{
+  "reports": [
+       {
+      "year": 2024,
+      "fr": { "title": "Rapport Annuel 2025", "file": "Rapport-2025.pdf" },
+      "en": { "title": "Annual Report 2025", "file": "Rapport-2025.pdf" },
+      "ar": { "title": "التقرير السنوي 2025", "file": "Rapport-2025.pdf" },
+      "isNew": true
+    },
+    {
+      "year": 2024,
+      "fr": { "title": "Rapport Annuel 2024", "file": "Rapport-2024.pdf" },
+      "en": { "title": "Annual Report 2024", "file": "Rapport-2024.pdf" },
+      "ar": { "title": "التقرير السنوي 2024", "file": "Rapport-2024.pdf" },
+      "isNew": false
+    },
+    {
+      "year": 2023,
+      "fr": { "title": "Rapport Annuel 2023", "file": "Rapport-2023.pdf" },
+      "en": { "title": "Annual Report 2023", "file": "Rapport-2023.pdf" },
+      "ar": { "title": "التقرير السنوي 2023", "file": "Rapport-2023.pdf" },
+      "isNew": false
+    },
+    {
+      "year": 2022,
+      "fr": { "title": "Rapport Annuel 2022", "file": "Rapport-2022.pdf" },
+      "en": { "title": "Annual Report 2022", "file": "Rapport-2022.pdf" },
+      "ar": { "title": "التقرير السنوي 2022", "file": "Rapport-2022.pdf" },
+      "isNew": false
+    }
+  ],
+  "brochures": [
+    { "id": "brochure-fr", "language": "fr", "title": "Français", "file": "Brochure-fr.pdf" },
+    { "id": "brochure-en", "language": "en", "title": "English", "file": "Brochure-en.pdf" },
+    { "id": "brochure-ar", "language": "ar", "title": "عربي", "file": "Brochure-ar.pdf" }
+  ],
+  "fiche_technique": [
+    { "id": "gare_racleur", "title": "Gare De Racleur", "file": "GARE_DE_RACLEUR.pdf" },
+    { "id": "Échangeur_De_Chaleur", "title": "Échangeur De Chaleur", "file": "ECHANGEUR_DE_CHALEUR.pdf" },
+    { "id": "Unité_De_Filtration", "title": "Unité De Filtration", "file": "UNITÈ_DE_FILTRATION.pdf" },
+    { "id": "UNITÈ_INJECTION", "title": "Unité D'injection", "file": "UNITÈ_INJECTION.pdf" },
+    { "id": "SÉPARATEUR", "title": "Séparateur", "file": "Fiche_SÉPARATEUR.pdf" }
+  ],"logo_gcb": [
+  {
+    "id": "logo_png",
+    "title": "Logo",
+    "format": "jpg",
+    "file": "LOGO.jpg"
+  }
+]
+
+  
+}

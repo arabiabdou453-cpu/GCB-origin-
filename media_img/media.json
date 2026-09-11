@@ -1,0 +1,479 @@
+{
+  "media": [
+    {
+      "title": {
+        "fr": "Présentation d'entreprise",
+        "en": "Corporate Presentation",
+        "ar": "عرض الشركة"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "corporate",
+      "name": {
+        "fr": "Présentation d'entreprise",
+        "en": "Corporate Presentation",
+        "ar": "عرض الشركة"
+      }
+    },
+    {
+      "id": "projects",
+      "name": {
+        "fr": "Nos Projets",
+        "en": "Our Projects",
+        "ar": "مشاريعنا"
+      }
+    }
+  ],
+  "videos": [
+       {
+      "id": 19,
+      "title": {
+        "fr": "Journée d’étude sur la transformation numérique et la cybersécurité au sein de la Société Nationale de Génie Civil et Bâtiment (GCB)",
+      "en": "Study Day on Digital Transformation and Cybersecurity at the National Civil Engineering and Construction Company (GCB)",
+      "ar": "يوم دراسي حول التحول الرقمي والأمن السيبراني بالشركة الوطنية للهندسة المدنية والبناء (GCB)"
+   
+      },
+      "description": {
+         "fr": "Journée d’étude sur la transformation numérique et la cybersécurité au sein de la Société Nationale de Génie Civil et Bâtiment (GCB)",
+      "en": "Study Day on Digital Transformation and Cybersecurity at the National Civil Engineering and Construction Company (GCB)",
+      "ar": "يوم دراسي حول التحول الرقمي والأمن السيبراني بالشركة الوطنية للهندسة المدنية والبناء (GCB)"
+   
+      },
+     "thumbnail": "/media_img/videos/thumbnails/CyberS.jpg",
+      "videoSource": "static",
+      "staticUrl": "/media_img/videos/Journee-cyber-securite.mp4",
+      "youtubeId": "AIrLB_Q2AMo",
+      "duration": "02:43",
+      "category": "corporate",
+      "tags": ["Cyber securité", "Oran", "GCB", "2026"],
+      "featured": false,
+      "publishDate": "2026-03-31",
+      "views": 0
+    },
+      {
+      "id": 18,
+      "title": {
+        "fr": "Interview exclusive avec le Président-Directeur Général de la Société Nationale de génie civil & bâtiment",
+        "en": "Exclusive Interview with the Chairman and Chief Executive Officer of the National company of Engineering and building",
+       "ar": "لقاء خاص مع الرئيس المدير العام للشركة الوطنية للهندسة المدنية والبناء"
+      },
+      "description": {
+         "fr": "Interview exclusive avec le Président-Directeur Général de la Société Nationale de génie civil & bâtiment",
+        "en": "Exclusive Interview with the Chairman and Chief Executive Officer of the National company of Engineering and building",
+        "ar": "لقاء خاص مع الرئيس المدير العام للشركة الوطنية للهندسة المدنية والبناء"
+      },
+     "thumbnail": "/media_img/videos/thumbnails/pdg.png",
+      "videoSource": "static",
+      "staticUrl": "/media_img/videos/pdg.mp4",
+      "youtubeId": "AIrLB_Q2AMo",
+      "duration": "18:12",
+      "category": "corporate",
+      "tags": ["Silos", "Boumerdes", "GCB", "2026"],
+      "featured": false,
+      "publishDate": "2026-03-31",
+      "views": 0
+    },
+    {
+      "id": 17,
+      "title": {
+        "fr": "Le projet de la station de dessalement d’eau de mer « CAP BLANC » à Oran a remporté la deuxième place lors de l’événement «Global Water Awards 2026»»",
+        "en": "The «CAP BLANC » seawater desalination plant project in Oran was awarded second place at the« Global Water Awards 2026» ",
+        "ar": "مشروع محطة تحلية مياه البحر “الرأس الأبيض” بوهران يتوّج بالمرتبة الثانية ضمن جوائز Global Water Awards 2026 الخاصة بأفضل مشاريع تحلية مياه البحر لسنة 2026"
+      },
+    "description": {  
+  "fr": "Le projet de la station de dessalement d’eau de mer « CAP BLANC » à Oran a remporté la deuxième place lors de l’événement «Global Water Awards 2026» dans la catégorie des meilleurs projets de dessalement d’eau de mer de l’année 2026. Cette distinction a été attribuée à l’occasion du Sommet Mondial de l’Eau 2026 tenu à Madrid, en Espagne, du 18 au 20 mai 2026. Ce projet a été réalisé par la Société Nationale de Génie Civil et Bâtiment GCB, en collaboration avec le partenaire technologique chinois HWTT, illustrant ainsi le savoir-faire Algérien dans la réalisation des grands projets stratégiques.",
+  "en": "The «CAP BLANC » seawater desalination plant project in Oran was awarded second place at the« Global Water Awards 2026» in the category of the best seawater desalination projects of the year. The award was presented during the Global Water Summit 2026 held in Madrid, Spain, from May 18 to 20, 2026. The project was carried out by the National Company of Civil Engineering and Building GCB in partnership with the Chinese technology partner HWTT, highlighting Algeria’s expertise and capability in delivering major strategic infrastructure projects.",
+  "ar": "مشروع محطة تحلية مياه البحر “الرأس الأبيض” بوهران يتوّج بالمرتبة الثانية ضمن جوائز Global Water Awards 2026 الخاصة بأفضل مشاريع تحلية مياه البحر لسنة 2026. التتويج جاء على هامش القمة العالمية للمياه 2026 المنعقدة بالعاصمة الإسبانية مدريد خلال الفترة الممتدة من 18 إلى 20 ماي الجاري. وتجدر الإشارة أن هذا المشروع أُنجز من طرف الشركة الوطنية للهندسة المدنية والبناء GCB بالتعاون مع الشريك التكنولوجي الصيني HWTT."
+},
+      "thumbnail": "/media_img/videos/thumbnails/award.png",  
+      "videoSource": "static",
+      "staticUrl": "/media_img/videos/gcb_cap blanc.mp4",
+      "youtubeId": "AIrLB_Q2AMo",
+      "duration": "3:29",
+      "category": "corporate",
+      "tags": ["Silos", "Boumerdes", "GCB", "2026"],
+      "featured": false,
+      "publishDate": "2026-03-31",
+      "views": 0
+    },
+    
+     {
+      "id": 16,
+      "title": {
+        "fr": "Réalisation et équipement de trente silos stratégiques à Boumerdes",
+        "en": "Construction and equipping of thirty strategic silos in Boumerdès",
+        "ar": "إنجاز وتجهيز ثلاثين صومعة استراتيجية ببومرداس"
+      },
+      "description": {
+         "fr": "Réalisation et équipement de trente silos stratégiques à Boumerdes",
+        "en": "Construction and equipping of thirty strategic silos in Boumerdès",
+        "ar": "إنجاز وتجهيز ثلاثين صومعة استراتيجية ببومرداس"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/silos_boumerdes2.png",  
+      "videoSource": "youtube",
+      "url": "https://youtu.be/AIrLB_Q2AMo",
+      "youtubeId": "AIrLB_Q2AMo",
+      "duration": "3:29",
+      "category": "projects",
+      "tags": ["Silos", "Boumerdes", "GCB", "2026"],
+      "featured": false,
+      "publishDate": "2026-03-31",
+      "views": 0
+    },
+    {
+      "id": 1,
+      "title": {
+        "fr": "GCB Projet Unité de décarbonatation ALRAR FEV 2026",
+        "en": "GCB ALRAR Decarbonation Unit Project FEB 2026",
+        "ar": "مشروع وحدة إزالة الكربونات – ALRAR فبراير 2026"
+      },
+      "description": {
+        "fr": "GCB Projet Unité de décarbonatation ALRAR FEV 2026",
+        "en": "GCB ALRAR Decarbonation Unit Project FEB 2026",
+        "ar": "مشروع وحدة إزالة الكربونات – ALRAR فبراير 2026"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/separation.png",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/7Sm10JML39k",
+      "youtubeId": "7Sm10JML39k",
+      "duration": "5:58",
+      "category": "projects",
+      "tags": ["ALRAR", "DMI", "GCB", "2026"],
+      "featured": false,
+      "publishDate": "2026-03-01",
+      "views": 0
+    },
+    {
+      "id": 2,
+      "title": {
+        "fr": "projet de réalisation d'un EPF au niveau du champ de TFT",
+        "en": "Project for the Construction of an EPF at the TFT Field",
+        "ar": "مشروع إنجاز منشأة EPF على مستوى حقل TFT"
+      },
+      "description": {
+        "fr": "projet de réalisation d'un EPF au niveau du champ de TFT",
+        "en": "Project for the Construction of an EPF at the TFT Field",
+        "ar": "مشروع إنجاز منشأة EPF على مستوى حقل TFT"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/EPF.jpg",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/rwemNiAq-fk",
+      "youtubeId": "rwemNiAq-fk",
+      "duration": "3:11",
+      "category": "projects",
+      "tags": ["EPF", "TFT", "GCB", "2026"],
+      "featured": false,
+      "publishDate": "2026-03-01",
+      "views": 0
+    },
+    {
+      "id": 3,
+      "title": {
+        "fr": "Réalisation de la ligne ferroviaire Tindouf–Oum Lassel sur 175 km",
+        "en": "Construction of the Tindouf–Oum Lassel railway line over 175 km",
+        "ar": "إنجاز خط السكة الحديدية تندوف – أم العسل على مسافة 175 كلم"
+      },
+      "description": {
+        "fr": "Réalisation de la ligne ferroviaire Tindouf–Oum Lassel sur 175 km",
+        "en": "Construction of the Tindouf–Oum Lassel railway line over 175 km",
+        "ar": "إنجاز خط السكة الحديدية تندوف – أم العسل على مسافة 175 كلم"
+      },
+       "thumbnail": "/media_img/videos/thumbnails/voie_ferree.jpg",  
+      "videoSource": "static",
+      "staticUrl": "/media_img/videos/22-12-2025.mov",
+      "youtubeId": "1dUP8JK460A",
+      "duration": "7:46",
+      "category": "projects",
+      "tags": ["Railway", "Tindouf", "Oum Lassel", "Infrastructure", "GCB", "2025"],
+      "featured": false,
+      "publishDate": "2025-01-01",
+      "views": 0
+    },
+    {
+      "id": 4,
+      "title": {
+        "fr": "Réalisation et équipement de trente silos stratégiques à Biskra",
+        "en": "Construction and equipping of thirty strategic silos in Biskra",
+        "ar": "إنجاز وتجهيز ثلاثين صومعة استراتيجية ببسكرة"
+      },
+      "description": {
+        "fr": "Réalisation et équipement de trente silos stratégiques à Biksra",
+        "en": "Construction and equipping of thirty strategic silos in Biksra",
+        "ar": "إنجاز وتجهيز ثلاثين صومعة استراتيجية ببسكرة"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/silos_skikda.png",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/DC-FHTWPcLY",
+      "youtubeId": "DC-FHTWPcLY",
+      "duration": "1:40",
+      "category": "projects",
+      "tags": ["skikda", "Silos", "2025", "GCB"],
+      "featured": false,
+      "publishDate": "2024-01-15",
+      "views": 1250
+    },
+    {
+      "id": 5,
+      "title": {
+        "fr": "Réalisation et équipement de trente silos stratégiques à Boumerdès",
+        "en": "Construction and equipping of thirty strategic silos in Boumerdès",
+        "ar": "إنجاز وتجهيز ثلاثين صومعة استراتيجية بولاية بومرداس"
+      },
+      "description": {
+        "fr": "Réalisation et équipement de trente silos stratégiques à Boumerdès",
+        "en": "Construction and equipping of thirty strategic silos in Boumerdès",
+        "ar": "إنجاز وتجهيز ثلاثين صومعة استراتيجية بولاية بومرداس"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/silos_boumerdes.png",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/dYlG_J_LVG8",
+      "youtubeId": "dYlG_J_LVG8",
+      "duration": "2:27",
+      "category": "projects",
+      "tags": ["Silos", "Boumerdes", "2026", "GCB"],
+      "featured": false,
+      "publishDate": "2024-01-15",
+      "views": 1250
+    },
+    {
+      "id": 6,
+      "title": {
+        "fr": "Présentation GCB",
+        "en": "GCB Presentation",
+        "ar": "عرض GCB"
+      },
+      "description": {
+        "fr": "Découvrez notre entreprise et nos valeurs",
+        "en": "Discover our company and values",
+        "ar": "اكتشف شركتنا وقيمنا"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/GCB.webp",
+      "videoSource": "static",
+      "staticUrl": "/media_img/videos/REPORTAGE_GCB.mov",
+      "youtubeId": "_1bI2MP6Cws",
+      "duration": "5:30",
+      "category": "corporate",
+      "tags": ["presentation", "corporate", "2025", "GCB"],
+      "featured": false,
+      "publishDate": "2024-01-15",
+      "views": 1250
+    },
+    {
+      "id": 7,
+      "title": {
+        "fr": "Construction d'une station de dessalement d'eau de mer d'une capacité de 80 000 m³/jour à Corso, wilaya de Boumerdès",
+        "en": "Construction of a seawater desalination plant with a capacity of 80,000 m³/day in Corso, Boumerdès Province",
+        "ar": "إنشاء محطة لتحلية مياه البحر بطاقة 80,000 متر مكعب يومياً في قورصو، ولاية بومرداس"
+      },
+      "description": {
+        "fr": "Construction d'une station de dessalement d'eau de mer d'une capacité de 80 000 m³/jour à Corso, wilaya de Boumerdès",
+        "en": "Construction of a seawater desalination plant with a capacity of 80,000 m³/day in Corso, Boumerdès Province",
+        "ar": "إنشاء محطة لتحلية مياه البحر بطاقة 80,000 متر مكعب يومياً في قورصو، ولاية بومرداس"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/dessalement_corso.JPG",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/_3WPy9vZSug",
+      "youtubeId": "_3WPy9vZSug",
+      "duration": "9:48",
+      "category": "projects",
+      "tags": ["Dessalement", "EPC", "CORSO"],
+      "featured": false,
+      "publishDate": "2024-02-20",
+      "views": 0
+    },
+    {
+      "id": 8,
+      "title": {
+        "fr": "Construction d'une station de dessalement d'eau de mer d'une capacité de 300 000 m³/jour à CAP BLANC, wilaya d'ORAN",
+        "en": "Construction of a seawater desalination plant with a capacity of 300,000 m³/day in CAP BLANC, ORAN Province",
+        "ar": "إنجاز محطة لتحلية مياه البحر بطاقة 300,000 متر مكعب/اليوم في رأس الأبيض، ولاية وهران"
+      },
+      "description": {
+        "fr": "Construction d'une station de dessalement d'eau de mer d'une capacité de 300 000 m³/jour à CAP BLANC, wilaya d'ORAN",
+        "en": "Construction of a seawater desalination plant with a capacity of 300,000 m³/day in CAP BLANC, ORAN Province",
+        "ar": "إنجاز محطة لتحلية مياه البحر بطاقة 300,000 متر مكعب/اليوم في رأس الأبيض، ولاية وهران"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/dessalement_cap_blanc.jpg",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/0yEEbYXSaZg",
+      "youtubeId": "0yEEbYXSaZg",
+      "duration": "6:17",
+      "category": "projects",
+      "tags": ["Dessalement", "EPC", "Oran"],
+      "featured": false,
+      "publishDate": "2024-02-20",
+      "views": 0
+    },
+    {
+      "id": 9,
+      "title": {
+        "fr": "Complexe sportif du Mouloudia Club d'Alger",
+        "en": "Mouloudia Club of Algiers Sports Complex",
+        "ar": "المركّب الرياضي لمولودية الجزائر"
+      },
+      "description": {
+        "fr": "Complexe sportif du Mouloudia Club d'Alger",
+        "en": "Mouloudia Club of Algiers Sports Complex",
+        "ar": "المركّب الرياضي لمولودية الجزائر"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/MCA.jpg",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/sS-n0mCAv64",
+      "youtubeId": "sS-n0mCAv64",
+      "duration": "10:18",
+      "category": "projects",
+      "tags": ["DSO", "GCB", "restauration"],
+      "featured": false,
+      "publishDate": "2024-02-20",
+      "views": 0
+    },
+    {
+      "id": 10,
+      "title": {
+        "fr": "Fabrication Mécanique",
+        "en": "Mechanical Manufacturing",
+        "ar": "التصنيع الميكانيكي"
+      },
+      "description": {
+        "fr": "La fabrication mécanique au sein de la Direction des Constructions Métalliques",
+        "en": "Mechanical Manufacturing within the Directorate of Metallic Constructions",
+        "ar": "التصنيع الميكانيكي في مديرية البناءات المعدنية"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/DCM.png",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/7y47wLVIBbE",
+      "youtubeId": "7y47wLVIBbE",
+      "duration": "2:30",
+      "category": "corporate",
+      "tags": ["presentation", "corporate", "2025", "GCB", "DCM", "fabrication mécanique"],
+      "featured": false,
+      "publishDate": "2024-01-15",
+      "views": 1250
+    },
+    {
+      "id": 11,
+      "title": {
+        "fr": "Direction Montage, Maintenance & Exploitation Industrielle",
+        "en": "Assembly, Maintenance & Industrial Operations Management",
+        "ar": "مديرية التركيب والصيانة والاستغلال الصناعي"
+      },
+      "description": {
+        "fr": "Direction Montage, Maintenance & Exploitation Industrielle",
+        "en": "Assembly, Maintenance & Industrial Operations Management",
+        "ar": "مديرية التركيب والصيانة والاستغلال الصناعي"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/DMI.JPG",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/tA8cExZtfR0",
+      "youtubeId": "tA8cExZtfR0",
+      "duration": "5:30",
+      "category": "corporate",
+      "tags": ["presentation", "corporate", "2025", "GCB", "DMI"],
+      "featured": false,
+      "publishDate": "2024-01-15",
+      "views": 1250
+    },
+    {
+      "id": 12,
+      "title": {
+        "fr": "Projet 36 Puits",
+        "en": "36 Wells Project",
+        "ar": "مشروع 36 بئر"
+      },
+      "description": {
+        "fr": "Projet 36 Puits",
+        "en": "36 Wells Project",
+        "ar": "مشروع 36 بئر"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/73.png",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/QqFG883PA3I",
+      "youtubeId": "QqFG883PA3I",
+      "duration": "8:39",
+      "category": "projects",
+      "tags": ["presentation", "corporate", "2025", "GCB", "Puits"],
+      "featured": false,
+      "publishDate": "2024-01-15",
+      "views": 1250
+    },
+    {
+      "id": 13,
+      "title": {
+        "fr": "Base de vie Ain Tssila, Ilizi",
+        "en": "Ain Tssila Living Base, Ilizi",
+        "ar": "قاعدة الحياة عين تسيلة، إليزي"
+      },
+      "description": {
+        "fr": "Base de vie Ain Tssila, Ilizi",
+        "en": "Ain Tssila Living Base, Ilizi",
+        "ar": "قاعدة الحياة عين تسيلة، إليزي"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/ain_tssila.png",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/yv7uZ8hhPAI",
+      "youtubeId": "yv7uZ8hhPAI",
+      "duration": "8:39",
+      "category": "projects",
+      "tags": ["presentation", "corporate", "2025", "GCB", "DRO", "Ilizi"],
+      "featured": false,
+      "publishDate": "2024-01-15",
+      "views": 1250
+    },
+    {
+      "id": 14,
+      "title": {
+        "fr": "Fabrication Séparateur GCB",
+        "en": "GCB Separator Manufacturing",
+        "ar": "تصنيع الفاصل GCB"
+      },
+      "description": {
+        "fr": "Fabrication Séparateur GCB",
+        "en": "GCB Separator Manufacturing",
+        "ar": "تصنيع الفاصل GCB"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/separateur_dcm.png",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/cccmFJiDQZM",
+      "youtubeId": "cccmFJiDQZM",
+      "duration": "6:34",
+      "category": "corporate",
+      "tags": ["presentation", "corporate", "2025", "GCB", "DCM", "separateur"],
+      "featured": false,
+      "publishDate": "2024-01-15",
+      "views": 1250
+    },
+    {
+      "id": 15,
+      "title": {
+        "fr": "GCB HSE",
+        "en": "GCB HSE",
+        "ar": "GCB HSE"
+      },
+      "description": {
+        "fr": "Hygiène, Sécurité et Environnement chez GCB",
+        "en": "Health, Safety and Environment at GCB",
+        "ar": "الصحة والسلامة والبيئة في GCB"
+      },
+      "thumbnail": "/media_img/videos/thumbnails/qhse.jpg",
+      "videoSource": "youtube",
+      "url": "https://youtu.be/v5z9jbUn5c8",
+      "youtubeId": "v5z9jbUn5c8",
+      "duration": "6:34",
+      "category": "corporate",
+      "tags": ["presentation", "corporate", "2025", "GCB", "HSE"],
+      "featured": false,
+      "publishDate": "2024-01-15",
+      "views": 1250
+    }
+  ],
+  "settings": {
+    "autoplay": false,
+    "defaultVolume": 0.7,
+    "showViewCount": true,
+    "enableSharing": true,
+    "enableDownload": false,
+    "videosPerPage": 6
+  }
+}
